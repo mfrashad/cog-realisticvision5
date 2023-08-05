@@ -36,6 +36,7 @@ class Predictor(BasePredictor):
             safety_checker=None,
             cache_dir=MODEL_CACHE,
             local_files_only=True,
+            use_safetensors=True
         ).to("cuda")
 
     @torch.inference_mode()
