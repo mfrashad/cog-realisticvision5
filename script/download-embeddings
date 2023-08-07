@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+DIRECTORY=embeddings
+wget  -P "$DIRECTORY" --content-disposition  https://civitai.com/api/download/models/5637 #deep negative
+wget  -P "$DIRECTORY" --content-disposition  https://civitai.com/api/download/models/9208 #easynegatives

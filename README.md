@@ -8,6 +8,10 @@ First, download the pre-trained weights:
 
     cog run script/download-weights 
 
+Second, download loras and embeddings:
+    bash ./script/download-embeddings.sh
+    bash ./script/download-loras.sh
+
 Then, you can run predictions:
 
     cog predict -i prompt="monkey scuba diving"

@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+DIRECTORY=loras
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/62833 #add_detail
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/107366 #3DMM
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/7804 #SAM YANG
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/103724 #titjob
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/19936 #bukkake
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/21835 #spooning
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/23898 #missionary
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/22498 #cheeck bulge
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/29860 #solo breast grab
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/19847 #resting on stomach
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/21843 #bj under desk
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/10490 #cowgirl
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/43428 #pov blowjob
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/10290 #pov doggystyle
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/106979 #handjob
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/7870 #shirtlift
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/31673 #ahegao
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/22912 #ass grab
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/30340 #pov anal
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/32250 #pussy spread
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/20546 #masturbation
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/26924 #pov spitroast
+wget -P "$DIRECTORY" --content-disposition https://civitai.com/api/download/models/51985 #reverse cowgirl
